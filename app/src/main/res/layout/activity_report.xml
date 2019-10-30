@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F2D2F1F7"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="体检报告"
+        android:textSize="30dp"
+        android:textColor="#2E71B4"
+        ></TextView>
+    <TextView
+        android:id="@+id/Report1"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="#7A696868"
+        android:singleLine="false"
+        android:textSize="20dp"
+        ></TextView>
+    <TextView
+        android:id="@+id/Report2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="#7A696868"
+        android:singleLine="false"
+        android:textSize="20dp"
+        ></TextView>
+    <TextView
+        android:id="@+id/Report3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="#7A696868"
+        android:singleLine="false"
+        android:textSize="20dp"
+        ></TextView>
+    <TextView
+        android:id="@+id/Report4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="#7A696868"
+        android:singleLine="false"
+        android:textSize="20dp"
+        ></TextView>
+    <TextView
+        android:id="@+id/Report5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="#7A696868"
+        android:singleLine="false"
+        android:textSize="20dp"
+        ></TextView>
+
+
+
+
+</LinearLayout>
